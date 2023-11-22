@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1700674139 source:c:\users\eddah\desktop\c\cproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GetLivres.h"
+	"Gettaille.h"
+	"Enregistrer.h"
+	"StructLivre.h"
+
+1700674185 c:\users\eddah\desktop\c\cproject\getlivres.h
+	"StructLivre.h"
+
+1700674082 c:\users\eddah\desktop\c\cproject\structlivre.h
+
+1700672437 c:\users\eddah\desktop\c\cproject\gettaille.h
+
+1700674183 c:\users\eddah\desktop\c\cproject\enregistrer.h
+	"StructLivre.h"
+
+1700674520 source:c:\users\eddah\desktop\c\cproject\enregistrer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Enregistrer.h"
+	"StructLivre.h"
+
+1700674564 source:c:\users\eddah\desktop\c\cproject\getlivres.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GetLivres.h"
+	"StructLivre.h"
+
+1700674568 source:c:\users\eddah\desktop\c\cproject\gettaille.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Gettaille.h"
+	"StructLivre.h"
+

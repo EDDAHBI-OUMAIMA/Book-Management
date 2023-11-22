@@ -1,0 +1,6 @@
+#ifndef GETTAILLE_H_INCLUDED
+#define GETTAILLE_H_INCLUDED
+
+int Gettaille();
+
+#endif // GETTAILLE_H_INCLUDED
